@@ -1,13 +1,13 @@
 # Desafio-Latam-Tiendas
 Durante este desafío, ayudarás al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento
 
-#Descripción
+# Descripción
 Este proyecto tiene como objetivo analizar las ventas y el rendimiento de cuatro tiendas de Alura Store para ayudar al señor Juan a tomar una decisión informada sobre cuál de sus tiendas debería vender para invertir en un nuevo negocio.
 
-#Metodología
+# Metodología
 Se realizó un análisis exhaustivo de los datos de ventas de las cuatro tiendas, incluyendo:
 
-#Análisis de facturación: 
+# Análisis de facturación: 
 Se calculó el total de ventas de cada tienda para identificar la tienda con menor desempeño.
 Ventas por categoría: Se analizó el total de ventas por producto para cada tienda.
 Calificación promedio de la tienda: Se evaluó la satisfacción del cliente por tienda.
