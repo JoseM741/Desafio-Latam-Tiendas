@@ -29,14 +29,16 @@ La Tienda N°1, es la que tiene mayores ingresos, sin embargo presenta:
 
 -El Nps "Calificación de Clientes", es el más bajo de las 3 tiendas, por lo que no refleja una buena satifacción de clientes, pese a sus altas ventas, lo cual implica, en un riesgo para la empresa.
 
-En vista de ello, mi recomendación es que venda la tienda n°1 y con ello refuerze las gestiones de la tienda N°4.
+En vista de ello, mi recomendación es que venda la tienda N°1 y con ello refuerze las gestiones de la tienda N°4.
 Esta tienda, tiene menores ingresos por ventas, sin embargo:
 
 Tiene una alta calficación de clientes (NPS), por lo cual, asegura una fidelización de las personas.
 
 Tiene el menor costo de envío por tienda, lo cual, hace que sea la tienda más eficiente de todas.
 
-Hemos realizado el ejercicio de hacer una proyección de 10 años, para la tienda N°4, en comparación con la tienda N°1, y presenta una tasa de crecimiento superior. Lo que podría hacer que eventualmente supere a la tienda N°1 en ingresos.
+Tambien la tienda N°4, tiene una venta muy similiar de los productos más y menos vendidos que las otras 3 tiendas
+
+Finalmente, he realizado el ejercicio de hacer una proyección de 10 años, para la tienda N°4, en comparación con la tienda N°1, y presenta una tasa de crecimiento superior. Lo que podría hacer que eventualmente supere a la tienda N°1 en ingresos.
 
 Recomendación estratégica: realizar la venda de la tienda N°1 y con ello priorizar y reforzar las gestiones de la tienda N°4, que es la que presenta una mejor satifación de clientes, lo que asegura una fidelización de la tienda.
 
